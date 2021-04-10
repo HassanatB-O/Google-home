@@ -35,13 +35,12 @@ img{
 h2{
     font-size: 80px;
     text-align: center;
-    opacity: 0.65;
     margin-bottom: 1px;
 }
 input{
     width: 40%;
     border-radius: 27px;
-    border: 1px solid gainsboro;
+    border: 1px solid #EFF0F2;
     padding: 9px 5px;
     margin-left: 30%;
     background-image: url('search-solid.svg');
@@ -72,7 +71,7 @@ button#two{
     width: 150px;
     padding: 7px;
     text-transform: capitalize;
-    background-color: whitesmoke;
+    background-color: #F8F9FA;
     text-align: center;
     border: none;
     cursor: pointer;
@@ -82,7 +81,7 @@ button#two{
 }
 button#one{
     text-transform: capitalize;
-    background-color: whitesmoke;
+    background-color: #F8F9FA;
     border: none;
     width: 110px;
     padding: 7px;
@@ -97,12 +96,12 @@ a{
 section.one, section.two{
     display: flex;
     justify-content: space-between;
-    background-color: whitesmoke;
+    background-color: #F2F2F2;
     font-size: 14px;
     padding: 0 5px;
 }
 section.one{
-    border-bottom: 0.5px solid gainsboro;
+    border-bottom: 0.5px solid #E6E7E9;
     margin-top: 11.7%;
     color: gray;
 }
